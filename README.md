@@ -1,9 +1,9 @@
 This module displays an information page that is collapsed by default in the lower left corner of the magic mirror. When the user swipes or arrow keys up, the page expands. A swipe or arrow down will collapse the menu. 
 
-### Prerequisite
+## Prerequisite
 MMM-Keypress
 
-### Configuration
+## Configuration
 ```
         {
             module: "MMM-InfoPage",
@@ -36,3 +36,8 @@ MMM-Keypress
             }
         },
 ```
+
+## Screenshots
+![screenshot](https://github.com/tjat84/MMM-InfoPage/blob/0e4b2ee7f80d6c95429240126ba42fcd2abb70d4/collapsed.png)
+
+![screenshot](https://github.com/tjat84/MMM-InfoPage/blob/0e4b2ee7f80d6c95429240126ba42fcd2abb70d4/expanded.png)
